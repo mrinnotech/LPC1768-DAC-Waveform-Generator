@@ -210,6 +210,9 @@ Voltage
 
 > **Add your setup image here**
 
+![Project Screenshot](assets/IMG1.png)
+
+
 ```
 images/setup.jpg
 ```
@@ -217,6 +220,9 @@ images/setup.jpg
 ---
 
 > **Add the oscilloscope output here**
+
+![Project Screenshot](assets/IMG2.png)
+
 
 ```
 images/oscilloscope_output.jpg
@@ -227,6 +233,12 @@ images/oscilloscope_output.jpg
 # 🎥 Demo Video
 
 Upload your demonstration video to the repository and embed it here.
+
+
+
+
+
+
 
 ```
 videos/demo.mp4
