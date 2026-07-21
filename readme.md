@@ -66,9 +66,7 @@ The LPC1768 features a **10-bit DAC**, allowing **1024 different voltage levels*
 
 The output voltage is calculated as:
 
-\[
-V_{OUT}=\frac{DAC\ Value}{1023}\times3.3V
-\]
+$V_{OUT}=\frac{DAC\ Value}{1023}\times3.3V$
 
 ---
 
