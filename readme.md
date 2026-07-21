@@ -208,47 +208,25 @@ Voltage
 
 # 📸 Results
 
-> **Add your setup image here**
+> **Setup image**
 
-![Project Screenshot](assets/IMG1.png)
+<img width="1440" height="900" alt="IMG1" src="https://github.com/user-attachments/assets/7dd237d5-d0e3-400a-b251-b17d08458800" />
 
-
-```
-images/setup.jpg
-```
 
 ---
 
-> **Add the oscilloscope output here**
+> **Oscilloscope output**
 
-![Project Screenshot](assets/IMG2.png)
+<img width="726" height="336" alt="IMG2" src="https://github.com/user-attachments/assets/4d7dd257-f3b2-4563-ad98-59aa7f581a08" />
 
-
-```
-images/oscilloscope_output.jpg
-```
 
 ---
 
 # 🎥 Demo Video
 
-Upload your demonstration video to the repository and embed it here.
 
+https://github.com/user-attachments/assets/555f3efb-3b67-490b-8a5b-f9e3083c7ee0
 
-
-
-
-
-
-```
-videos/demo.mp4
-```
-
-Or upload it to YouTube and add the link.
-
-```text
-https://youtu.be/your_video_link
-```
 
 ---
 
